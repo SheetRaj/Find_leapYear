@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620453833 source:e:\c_c++\findleapyear\main.c
+	<stdio.h>
+	<stdlib.h>
+
